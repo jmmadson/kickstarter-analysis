@@ -6,7 +6,7 @@ Performing analysis on Kickstarter data to uncover trends for a successful Kicks
 * On average, failed kickstarter campaigns had higher goals than successful ones.
 * The mean campaign goal for musicals in Great Britain is higher than the outlier data for pledged, so a campaign of £2000 may be more successful. 
 ## Charts
-* Outcomes based on Launch date: ![Outcome Based On Launch Date](https://github.com/jmmadson/kickstarter-analysis/blob/main/Outcomebasedonlaunchdate.png).
-* Category Statistics:![Parent Category Statistics](https://github.com/jmmadson/kickstarter-analysis/blob/main/ParentCategoryOutcomes.png). 
+* Outcomes based on Launch date: ![Outcome Based On Launch Date](https://github.com/jmmadson/kickstarter-analysis/blob/main/Outcomebasedonlaunchdate.png)
+* Category Statistics:![Parent Category Statistics](https://github.com/jmmadson/kickstarter-analysis/blob/main/ParentCategoryOutcomes.png)
 ## Recommendation
 For the most successful campaign, I recommend starting a campaign for your play in May. Additionally, setting your play goal to something more achievable like £2000 will help ensure its success. 
