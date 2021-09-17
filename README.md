@@ -1,4 +1,4 @@
-## Overview of Project
+## Overview of our Kickstarter Analysis
 
 ### Purpose
 
@@ -13,7 +13,6 @@ With that, the following  line chart identified when the best months to launch a
 
 ![Outcome Based On Launch Date](https://github.com/jmmadson/kickstarter-analysis/blob/main/Resources/Theatre_Outcomes_vs_Launch.png)
 
-
 ### Analysis of Outcomes Based on Goals:
 Louise didn’t reach her crowdfunding goal, causing her to want to dig deeper into the trends of what goals are most likely to succeed. To analyze this, I took the campaign goals and put them into dollar ranges, adding a count of how many successful, failed and canceled campaigns fell into them. Using a filter to show only data for play campaigns the following line chart shows what goal amounts are most likely to be successful.  
 
@@ -21,7 +20,7 @@ Louise didn’t reach her crowdfunding goal, causing her to want to dig deeper i
 
 ### Challenges and Difficulties Encountered:
 The biggest challenges for me was knowing what to look for. Data can be misleading, for example: 
-While there looks to be a high percentage of successful campaigns in the $35,000 - $45,000 range - that was for a small set (nine) of Kickstarters, whereas the less than $5000 budget campaigns includes 720 Kickstarter campaigns. The smaller budget projects have more data points to make that a less risky choice, but if you are only looking at the chart you could make a poor assumption. 
+While there looks to be a high percentage of successful campaigns in the $35,000 - $45,000 range - that was for a small set (nine) of Kickstarters, whereas the less than $5000 budget campaigns includes 720 Kickstarter campaigns. The smaller budget projects have more data points to make that a less risky choice, but if you are only looking at the chart you may make an incorrect assumption. 
 
 ![Campaigns by Goal Data](https://github.com/jmmadson/kickstarter-analysis/blob/main/Resources/Campaigns_By_Goal_Data.png) 
 
